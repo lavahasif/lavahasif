@@ -1,4 +1,4 @@
-ഈ തായേ കാണുന്നതിൽ വല്യം അത്ഭുദം ഇല്ല .ഒരു സാധു 
+ഒരു സാധു 
 
   
   ![](https://komarev.com/ghpvc/?username=lavahasif)
