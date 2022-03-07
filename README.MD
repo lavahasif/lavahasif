@@ -36,7 +36,7 @@
 
 
 
-  
+ <!--
   ![](https://komarev.com/ghpvc/?username=lavahasif)
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -46,7 +46,7 @@
   <br/>
 
 </p>
-
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lavahasif)](https://github.com/lavahasif/github-profile-trophy)
 ![hasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavahasif&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavahasif)](https://github.com/lavahasif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavahasif)](https://github.com/lavahasif/github-readme-stats) -->
