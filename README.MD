@@ -55,7 +55,7 @@ Simple Android library for port scanning And Checking how many client connected.
 
 <h3>Flutter Package</h3>
 Easy Share your apk file   throught network using android.
-<a href="https://github.com/lavahasif/PortScan_Android](https://pub.dev/packages/shareapks"> ShareApk</a>
+<a href="https://pub.dev/packages/shareapks"> ShareApk</a>
 
 <h3>Flutter App</h3>
 Simple Util app
