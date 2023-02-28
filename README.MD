@@ -3,7 +3,7 @@
 
 👫I'm looking to collaborate on Flutter Projects
 
-🌱I'm currently learning Flutter & Dart
+🌱I'm currently learning ML.NET
 
 ☁️Ask me about app dev & more
 
