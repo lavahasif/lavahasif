@@ -12,11 +12,11 @@
 
 <h1>Packages</h1>
 <h3>Android Library</h3>
-Simple Android library for port scanning And Checking how many client connected.
+Simple Android library for port scanning And no of devices connected on a network.
 <a href="https://github.com/lavahasif/PortScan_Android"> PortScan</a>
 
 <h3>Flutter Package</h3>
-Easy Share your apk file   throught the network using android.
+Easy Share your apk file   through the network using android.
 <a href="https://pub.dev/packages/shareapks"> ShareApk</a>
 
 <h3>Flutter App</h3>
