@@ -13,13 +13,13 @@
 ## Packages
 
 ### Android Library
-I have created a simple Android library for port scanning and finding the number of devices connected to a network. Check it out here: [PortScan](https://github.com/lavahasif/PortScan_Android)
+created a simple Android library for port scanning and finding the number of devices connected to a network. Check it out here: [PortScan](https://github.com/lavahasif/PortScan_Android)
 
 ### Flutter Package
-I developed a package called "ShareApk" that makes it easy to share your APK files through the network using Android devices. Check it out on [pub.dev](https://pub.dev/packages/shareapks)
+developed a package called "ShareApk" that makes it easy to share your APK files through the network using Android devices. Check it out on [pub.dev](https://pub.dev/packages/shareapks)
 
 ## Flutter App
-I created a simple utility app that allows you to:
+created a simple utility app that allows you to:
 - Open WhatsApp numbers directly without saving them as contacts.
 - Take notes and keep them organized.
 - Perform port scanning.
