@@ -1,30 +1,30 @@
-# 💫About Me :
-🔭I'm currently working on Mobile Apps Development Skills
+# About Me 💫
 
-👫I'm looking to collaborate on Flutter Projects
+🔭 I'm currently working on Mobile Apps Development Skills.
 
-🌱I'm currently learning ML.NET
+👫 I'm looking to collaborate on Flutter Projects.
 
-☁️Ask me about app dev & more
+🌱 I'm currently learning ML.NET.
 
-⚡Fun Fact I'm just a learning everything
+☁️ Ask me about app development and more.
 
+⚡ Fun Fact: I'm just a learner, exploring everything!
 
-<h1>Packages</h1>
-<h3>Android Library</h3>
-Simple Android library for port scanning And no of devices connected on a network.
-<a href="https://github.com/lavahasif/PortScan_Android"> PortScan</a>
+## Packages
 
-<h3>Flutter Package</h3>
-Easy Share your apk file   through the network using android.
-<a href="https://pub.dev/packages/shareapks"> ShareApk</a>
+### Android Library
+I have created a simple Android library for port scanning and finding the number of devices connected to a network. Check it out here: [PortScan](https://github.com/lavahasif/PortScan_Android)
 
-<h3>Flutter App</h3>
-Simple Util app
-open direct whatsappnumber without saving contact
-note keep.
-port scan
-host your site
-<a href="https://github.com/lavahasif/fdservers"> fdserver</a>
+### Flutter Package
+I developed a package called "ShareApk" that makes it easy to share your APK files through the network using Android devices. Check it out on [pub.dev](https://pub.dev/packages/shareapks)
 
+## Flutter App
+I created a simple utility app that allows you to:
+- Open WhatsApp numbers directly without saving them as contacts.
+- Take notes and keep them organized.
+- Perform port scanning.
+- Host your site.
 
+Check it out on [GitHub](https://github.com/lavahasif/fdservers)
+
+Let's collaborate and create beautiful repositories and profiles based on these projects! Feel free to explore them, and if you have any questions or suggestions, don't hesitate to reach out. Happy coding! 🚀
